@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSignin</string>
+    <string name="usuario">usuario</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnSignIn">Sign in</string>
+    <string name="btnSignOut">Sign out</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788286276231",
+    "project_id": "gmailsignin-164207"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788286276231:android:b9cbce00799a0da8",
+        "android_client_info": {
+          "package_name": "com.example.yovitza.androidgmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788286276231-9ciqkhn7tocg21avn1rlfrccs4tqcu74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yovitza.androidgmail",
+            "certificate_hash": "7b0653aeb5d1f9402eaebd790abb0c91d0a686bf"
+          }
+        },
+        {
+          "client_id": "788286276231-qa72h4e55k900pj60p6d8m887rn9v64s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKFs_uRPJ6aHbf0pAFPhCeHRFZaaaPlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400480448796",
+    "project_id": "curso-android-signin-eda4f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400480448796:android:a8e75952bebfa61a",
+        "android_client_info": {
+          "package_name": "prueba.android.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400480448796-9mfc2ft6e72tr57u7u30789qrfqf52b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prueba.android.signin",
+            "certificate_hash": "7b0653aeb5d1f9402eaebd790abb0c91d0a686bf"
+          }
+        },
+        {
+          "client_id": "400480448796-4b770dboi2fjn32cl05kmeklh8jrvk62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3ASQ8tYzhNmW6cSA3svEexq4Ly2W6sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
